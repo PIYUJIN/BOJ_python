@@ -4,7 +4,7 @@ SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY, ITM(Information Technology 
 
 📔 What I did ...
     
-    - 서울런 멘토단 2022년 
+    - 2022년 서울런 멘토단 
 
 👀 I’m interested in ...
 
