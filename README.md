@@ -2,7 +2,7 @@ Hi, I’m PI YUJIN👋
 
 SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY, ITM(Information Technology Management) 재학
 
-📔 What I did ...
+📔 I did ...
     
     - 2022년 서울런 멘토단 
 
