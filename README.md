@@ -3,6 +3,7 @@ Hi, I’m PI YUJIN👋
 SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY, ITM(Information Technology Management) 재학
 
 📔 What I did ...
+    
     - 서울런 멘토단 2022년 
 
 👀 I’m interested in ...
@@ -14,6 +15,7 @@ SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY, ITM(Information Technology 
 💞️ I’m looking to collaborate on ...
 
 📫 How to contact me ...
+
     - e-mail : 20102125@seoultech.ac.kr
 
 <!---
